@@ -1,0 +1,98 @@
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+c:\users\кучерявый\documents\visual studio 2015\Projects\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Кучерявый\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Alexandr\AppData\Roaming\Skype\My Skype Received Files\WpfApplication_5\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Кучерявый\Desktop\44\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\44\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\44\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\44\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Кучерявый\Desktop\44\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Кучерявый\Desktop\44\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Кучерявый\Desktop\Сделал Сашка\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\bin\Debug\city.list.json
+C:\Users\Кучерявый\Desktop\WpfApplication_6\WpfApplication\obj\Debug\WpfApplication_Content.g.cs
