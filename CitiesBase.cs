@@ -32,14 +32,11 @@ public class Cities
     // метод поиска города и его ID по вводимому из консоли
     public List<City> FindCityFromConsole(string FindX)
     {
-
-        //var results = cities.Where(s => (s.name.Substring(0, FindX.Length) == FindX) && (s.name.Length > 1)).ToList();
-        var results = cities.Where(s => (s.name.Contains(FindX) == true) && (s.name.Length > 1)).ToList();
-        //var results = cities.Where(s => (s.name == FindX) && (s.name.Length > 1)).ToList();
+            //var results = cities.Where(s => (s.name.Substring(0, FindX.Length) == FindX) && (s.name.Length > 1)).ToList();
+            var results = cities.Where(s => (s.name.Contains(FindX) == true) && (s.name.Length > 1)).ToList();
+            //var results = cities.Where(s => (s.name == FindX) && (s.name.Length > 1)).ToList();
 
             //IEnumerable<City> results = cities.Where(s => s.name == FindX);
-        return results;
-
-//        return results;
+            return results;
     }
 }
